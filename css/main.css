@@ -25,3 +25,12 @@ header {
   background-color: #18294f;
 }
 
+header h1 {
+  text-align: center;
+  display: block;
+  color: #fff;
+  margin-top: 0;
+  padding-top: .39em;
+  margin-bottom: .5em;
+}
+
