@@ -42,3 +42,12 @@ li {
   list-style-type: none;
 }
 
+a {
+  display: block;
+  text-decoration: none;
+  text-align: left;
+  color: #6c8fe0;
+  background-color: #18294f;
+  padding: .75rem;
+}
+
