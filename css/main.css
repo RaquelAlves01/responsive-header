@@ -113,6 +113,41 @@ nav a:hover {
 
 }
 
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+  h1,
+  p {
+    margin: 0 0 1.4rem;
+  }
+
+  header {
+    padding: 1em;
+  }
+
+  ul {
+    overflow: hidden;
+  }
+
+  header h1 {
+    float: left;
+    width: 50%;
+    padding-top: 0;
+    text-align: left;
+  }
+
+  nav li {
+    float: right;
+    box-sizing: border-box;
+    width: 25%;
+  }
+
+}
+
   }
 
   header h1 {
